@@ -181,7 +181,7 @@ The firmware uses these to calculate the fill percentage displayed on the LCD an
 | **Institution** | Arusha Technical College (ATC), Arusha, Tanzania |
 | **Programme** | Bachelors in Mechatronics and Material Engineering |
 | **Supervisor** | Mr. Dickson, MSc in Robotics |
-| **Purpose** | Final-year capstone project |
+| **Purpose** | Capstone project on Sensors and Actuators |
 
 ---
 
